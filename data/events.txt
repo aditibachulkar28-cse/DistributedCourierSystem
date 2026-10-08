@@ -1,0 +1,13 @@
+[Lamport=3] Node=1 Courier=C101 Event=COURIER_CREATED Location=Pune
+[Lamport=3] Node=2 Courier=C101 Event=COURIER_RECEIVED Location=Mumbai
+[Lamport=3] Node=3 Courier=C101 Event=COURIER_RECEIVED Location=Delhi
+[Lamport=3] Node=1 Courier=C101 Event=COURIER_CREATED Location=Pune
+[Lamport=3] Node=2 Courier=C101 Event=COURIER_RECEIVED Location=Mumbai
+[Lamport=3] Node=3 Courier=C101 Event=COURIER_RECEIVED Location=Delhi
+[Lamport=3] Node=2 Courier=c101 Event=COURIER_CREATED Location=Mumbai
+[Lamport=3] Node=1 Courier=C101 Event=COURIER_CREATED Location=Pune
+[Lamport=3] Node=2 Courier=C101 Event=COURIER_RECEIVED Location=Mumbai
+[Lamport=3] Node=3 Courier=3 Event=COURIER_RECEIVED Location=Delhi
+[Lamport=3] Node=1 Courier=C101 Event=COURIER_CREATED Location=Pune Vector=[2, 0, 0]
+[Lamport=3] Node=2 Courier=C101 Event=COURIER_RECEIVED Location=Mumbai Vector=[0, 2, 0]
+[Lamport=3] Node=3 Courier=C101 Event=COURIER_RECEIVED Location=Delhi Vector=[0, 0, 2]
